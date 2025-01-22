@@ -37,9 +37,9 @@ Possuo facilidade em aprender novas tecnologias e conceitos, sou comunicativo e 
 
 ##
 
-<div>  
-  <img  height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guilherj&theme=nord_dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guilherj&hide=Html&theme=nord_dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guilherj&theme=nord_dark"/>
-  <img height="265em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherj&theme=nord_dark"/> 
+<div align="center">  
+  <img  height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guilherj&theme=nord_dark"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guilherj&hide=Html&theme=nord_dark"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guilherj&theme=nord_dark"/>
+  <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherj&theme=nord_dark"/> 
  </div>
