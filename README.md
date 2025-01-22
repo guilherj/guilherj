@@ -26,10 +26,10 @@
       <img align="left" width="400" alt="coding-time" src="code.gif">
     </td>
     <td style="border: 0";>
-      <p>
+      <h3>
         💻 Desenvolvedor backend com boa experiência em arquitetura de microserviços, utilizando o ecossistema Java. Possuo expertise em desenvolver e implantar soluções escaláveis utilizando tecnologias como Spring Boot, Maven e bancos de dados Oracle e MySQL. Tenho forte compromisso com a qualidade do código, realizando testes unitários meticulosos com JUnit e Mockito para garantir a robustez das aplicações.
 Possuo facilidade em aprender novas tecnologias e conceitos, sou bastante colaborativo sempre disposto a ajudar e ser útil, buscando sempre contribuir para uma entrega com excelência nos projetos e equipes em que atuo.
-      </p>      
+      </h3>      
     </td>
   </tr>
 </table>
