@@ -1,9 +1,11 @@
 ## Olá, Seja Bem Vindo Ao Meu Perfil No Github!
 
 <div> 
-  <a href="https://www.instagram.com/guilherme.ncsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
-  <a href="https://www.linkedin.com/in/guilherme-nascimento-27091991" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:contato.guilhermenascimento@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>  
+  <!-- <a href="https://www.instagram.com/guilherme.ncsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <a href="https://www.instagram.com/guilherme.ncsilva" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a> 	
+  <!-- <a href="https://www.linkedin.com/in/guilherme-nascimento-27091991" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.linkedin.com/in/guilherme-nascimento-27091991" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a> 
+  <a href="mailto:contato.guilhermenascimento@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 </div>
 
 <div style="display: inline_block"><br>
@@ -41,5 +43,5 @@ Possuo facilidade em aprender novas tecnologias e conceitos, sou bastante colabo
   <img  height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guilherj&theme=nord_dark"/>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guilherj&hide=Html&theme=nord_dark"/>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guilherj&theme=nord_dark"/>
-  <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherj&theme=nord_dark"/> 
+  <img height="237em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherj&theme=nord_dark"/> 
  </div>
